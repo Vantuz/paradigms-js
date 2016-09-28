@@ -1,0 +1,2 @@
+javac test\ModifiedPrefixParserTest.java
+pause

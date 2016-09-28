@@ -1,0 +1,2 @@
+javac test\ObjectExpressionTest.java
+pause
